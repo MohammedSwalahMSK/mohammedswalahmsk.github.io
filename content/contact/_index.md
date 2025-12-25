@@ -1,5 +1,6 @@
 ---
-title: "Contact"
+title: Contact
+type: page
 ---
 
 You can reach me through the platforms below:
